@@ -1,0 +1,6 @@
+beautifulsoup4==4.11.1
+dataframe_image==0.1.1
+pandas==1.4.2
+python_telegram_bot==13.11
+requests==2.27.1
+
